@@ -16,7 +16,7 @@ Select the operating system you are working on.
 
 {:.tabs.contained.three-up #install-tabs data-tab=""}
 OSX
-: [OSX](#tab-osx)
+: {:.active} [OSX](#tab-osx)
 
 Linux
 : [Linux](#tab-linux)
